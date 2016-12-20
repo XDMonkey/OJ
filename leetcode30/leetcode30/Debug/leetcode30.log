@@ -1,5 +1,0 @@
-﻿  leetcode30.cpp
-e:\workspace\visualstudio\leetcode30\leetcode30\leetcode30.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
-e:\workspace\visualstudio\leetcode30\leetcode30\leetcode30.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
-  leetcode30.vcxproj -> E:\Workspace\VisualStudio\leetcode30\Debug\leetcode30.exe
-  leetcode30.vcxproj -> E:\Workspace\VisualStudio\leetcode30\Debug\leetcode30.pdb (Full PDB)
