@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  leetcode35.cpp
+e:\workspace\visualstudio\leetcode35\leetcode35\leetcode35.cpp(22): warning C4717: “Solution::findIndex”: 如递归所有控件路径，函数将导致运行时堆栈溢出
+  leetcode35.vcxproj -> E:\Workspace\VisualStudio\leetcode35\Debug\leetcode35.exe
+  leetcode35.vcxproj -> E:\Workspace\VisualStudio\leetcode35\Debug\leetcode35.pdb (Full PDB)
